@@ -1,2 +1,3 @@
 Hello Git!
 welcome 
+This is a new line from the feature-update branch.
